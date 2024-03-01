@@ -1,0 +1,10 @@
+.mainContainer{
+    display: flex;
+    background:rgb(133, 133, 133);
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* flex-flow: row wrap; */
+
+    justify-content: space-around;
+    align-content: start;
+}
